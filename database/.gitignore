@@ -1,0 +1,3 @@
+*.sqlite
+*.sqlite-journal
+*.package-lock.json
